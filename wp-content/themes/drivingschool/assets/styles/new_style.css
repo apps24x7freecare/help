@@ -1,0 +1,57 @@
+/*
+Theme Name: DrivingSchool
+Theme URI:  http://drivingschool.wpmix.net/
+Author: NoxonThemes
+Author URI: https://themeforest.net/user/noxonthemes
+Description: Car Driving School WP Theme
+Version: 1.4.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: grid-layout, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, post-formats, sticky-post, theme-options, translation-ready, blog, education
+Text Domain: drivingschool
+*/
+@media only screen and (max-width:768px) {.inp__control{width: 312px !important;}
+.jq-selectbox.jqselect.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.form-control.mand { width: 312px !important; }
+ .jq-selectbox.jqselect.wpcf7-form-control.wpcf7-select.wpcf7-validates-as-required.form-control.mand1{width: 312px !important;}   
+  input.wpcf7-form-control.wpcf7-submit.btn.btn_fullwidth{width: 256px !important;} 
+.wpb_image_grid .wpb_image_grid_ul img{width: 305px !important;}
+  .col-md-6.banner_caption_bg h1 { font-size: 28px; color: #fff; font-weight: bold; text-align: center; }
+    .col-md-6.banner_caption_bg{top:0px !important;position: relative;}
+    .contact_us_bg_caption h2{font-size:24px !important;}
+    .contact_us_bg_caption a{font-size:18px !important;}
+    a{color:#fa8c5c !important;}
+    textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required.textarea.textarea_fullwidth.mand
+    {width: 311px !important;}
+    
+}
+
+.current-menu-item > a, .current-post-ancestor > a{color:#fa8c5c !important;font-weight:bold;}
+.btn {
+    background-color: #fa8c5c !important;
+    color: #fff !important;
+}
+.logo img{width:273px !important;height:108px !important;}
+current-menu-item > a, .current-post-ancestor > a:hover{background-color: #fa8c5c !important;
+    color: #fff !important;}
+.nav__body.container a:hover{background-color: #fa8c5c !important;
+    color: #fff !important;}
+.form__mark:before{background-color: #fa8c5c !important;}
+p.bar-social__text {
+    color: #fff !important;
+    font-size: 15px;
+    font-style: normal;
+}
+.tiser__pager-item_active{background-color:#fa8c5c !important;
+    box-shadow: 0 0 0 2px #fa8c5c !important;}
+.numbers__value{color:#fa8c5c !important;}
+.feature__icon:after, .feature__icon:before{background-color:#fa8c5c !important;}
+.feature__icon:after, .feature__icon:after{background-color:#fa8c5c !important;}
+.best .title__mark{color:#fa8c5c !important;}
+.footer { font-size: 15px; display: block; color:#fff !important; background-color:#000 !important; opacity: 0.75; }
+.widget_nav_menu  a{color:#fff !important;}
+.widget_nav_menu .current-menu-item > a{color:#fff !important;}
+.footer-widget{color:#fff !important;}
+.footer__title{color:#fa8c5c !important;}
+.dev { font-size: 18px !important; font-weight: 600; font-style: normal !important; display: block; text-align: center !important; color: #fff !important; background-color: #00162b; }
+.dev__item a{color:#fff !important;}
+.text{color:#000 !important;}
