@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; patsflorist</title>
+	<title>Uncategorized &#8211; houseofom</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 19 Sep 2024 16:23:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Sep 2024 16:08:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 					<comments>./../../../hello-world/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[callsntraffic]]></dc:creator>
-		<pubDate>Thu, 19 Sep 2024 16:23:41 +0000</pubDate>
+		<pubDate>Sat, 21 Sep 2024 16:08:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=1</guid>
 
