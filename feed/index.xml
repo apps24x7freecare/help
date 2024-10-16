@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>houseofom</title>
+	<title>houseofyog</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../wp-content/uploads/2024/10/Black-White-Minimalist-Business-Logo.png</url>
+	<title>houseofyog</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>./../hello-world/index.html</link>
